@@ -31,3 +31,6 @@ Requirements:
 - iOS 14.0+
 - Xcode 12.0+
 - SwiftUICharts library
+
+<h1>Notes 📝</h1>
+This expense tracker iOS application is my first project developed using Xcode, and I faced a lot of confusion at first during the learning process. As a beginner, understanding the Xcode interface and the Swift programming language presented a decent amount of learning. However, I dedicated time to online tutorials, seeking help from developer communities, and practicing hands-on coding. The experience taught me invaluable lessons about iOS development, and I'm happy with the progress I've made. I hope this repository can serve as both a testament to my learning journey and a useful tool for others interested in developing similar applications. 
