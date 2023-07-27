@@ -18,10 +18,6 @@ This is an Expense Tracker application built using SwiftUI and SwiftUICharts. Th
 
 - Notification icon in the navigation bar
 
-<h1>Visuals ✨</h1>
-<img src='/Finance_App_Screenshot.png' alt='Expense Tracker Swift Project Screenshot'>
-
-
 <h1>Installation ⚙️</h1>
 To run the Expense Tracker application locally, follow these steps:
 
